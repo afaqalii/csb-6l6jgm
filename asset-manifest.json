@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://afaqalii.github.io/csb-6l6jgm/static/css/main.3cfd7fe6.chunk.css",
+    "main.js": "https://afaqalii.github.io/csb-6l6jgm/static/js/main.97fad5e8.chunk.js",
+    "main.js.map": "https://afaqalii.github.io/csb-6l6jgm/static/js/main.97fad5e8.chunk.js.map",
+    "runtime-main.js": "https://afaqalii.github.io/csb-6l6jgm/static/js/runtime-main.3e2c03a9.js",
+    "runtime-main.js.map": "https://afaqalii.github.io/csb-6l6jgm/static/js/runtime-main.3e2c03a9.js.map",
+    "static/js/2.ebd706a1.chunk.js": "https://afaqalii.github.io/csb-6l6jgm/static/js/2.ebd706a1.chunk.js",
+    "static/js/2.ebd706a1.chunk.js.map": "https://afaqalii.github.io/csb-6l6jgm/static/js/2.ebd706a1.chunk.js.map",
+    "index.html": "https://afaqalii.github.io/csb-6l6jgm/index.html",
+    "static/css/main.3cfd7fe6.chunk.css.map": "https://afaqalii.github.io/csb-6l6jgm/static/css/main.3cfd7fe6.chunk.css.map",
+    "static/js/2.ebd706a1.chunk.js.LICENSE.txt": "https://afaqalii.github.io/csb-6l6jgm/static/js/2.ebd706a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e2c03a9.js",
+    "static/js/2.ebd706a1.chunk.js",
+    "static/css/main.3cfd7fe6.chunk.css",
+    "static/js/main.97fad5e8.chunk.js"
+  ]
+}
